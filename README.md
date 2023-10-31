@@ -1,3 +1,3 @@
 # JavaFoodOrder
-Food Order Application in Java
+Food Order Application in Java  
 Main file is Eater.java
